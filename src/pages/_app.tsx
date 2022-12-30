@@ -4,6 +4,8 @@ import { SessionProvider } from "next-auth/react";
 
 import { trpc } from "../utils/trpc";
 
+import "../components/BusinessCard/BusinessCard.css";
+
 import "../styles/globals.css";
 import Navbar from "../components/shared/Navbar";
 
